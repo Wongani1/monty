@@ -1,2 +1,1 @@
-# monty
-The c thing
+0x19. C - Stacks, Queues - LIFO, FIFO
